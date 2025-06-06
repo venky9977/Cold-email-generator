@@ -39,12 +39,11 @@ class Chain:
             {job_description}
 
             ### INSTRUCTION:
-            You are Venkateshan Kokkattu, an MS CS student at Boston University seeking a job opportunity.
+            You are Venkateshan Kokkattu, an MS CS student at Boston University seeking a job opportunity and software engineer with 4+ years of experience.
             Your job is to write a cold email to the hiring manager expressing your interest in the role, 
             highlighting your relevant skills, experiences, and why you would be a strong fit for their team. 
             Make sure to convey enthusiasm and professionalism.
             Also add the most relevant ones from the following links to showcase my portfolio: {link_list}
-            Remember you are Venkateshan, a MS in CS student and software engineer with 3+ years of experience. 
             Format it nicely.
             Do not provide a preamble.
             ### EMAIL (NO PREAMBLE):
